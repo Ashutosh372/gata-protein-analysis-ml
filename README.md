@@ -41,10 +41,11 @@ streamlit run streamlit_app/app.py
 ## Files Included
 
 - **gata_analysis.ipynb** → Main project notebook containing all steps  
-- **requirements.txt** → Python dependencies (optional)  
-- **results/** → Plots, figures, cluster visualizations (optional)  
-- **data/** → Small sample dataset if required (optional)  
-- **streamlit_app/** → Streamlit dashboard code (optional)
+- **requirements.txt** → Python dependencies  
+- **results/** → Plots, figures, cluster visualizations 
+- **data/** → Small sample dataset if required
+- features.csv contains numerical descriptors (MW, length, GRAVY, aromaticity) generated from raw protein sequences.
+- **streamlit_app/** → Streamlit dashboard code 
 
 ---
 
